@@ -2,7 +2,7 @@
 
 Slides: https://slides.com/staceymaples/spatial101
 
-
+ShortURL: https://tinyurl.com/sgcspatial101 
 
 ## Workshop objectives
 
