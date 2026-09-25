@@ -1,5 +1,9 @@
 # Spatial Data 101
 
+Slides: https://slides.com/staceymaples/spatial101
+
+
+
 ## Workshop objectives
 
 By the end of this workshop, participants should be able to:
